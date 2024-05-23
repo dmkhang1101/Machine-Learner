@@ -1,2 +1,2 @@
 # Machine-Learner
-An archive of all my self-implemented machine learning algorithms. 
+An archive of all my self-implemented machine learning algorithms, including : K-Nearest Neighbors, Multinomial Naive Bayes Classifier, Random Forest and Neural Network with accuracy over 95% on application involving: predicting tone of movie reviews based on number of words' occurences, diagnosing breast cancer based on cell's dimensions, predicting certain types of wines based on content and classifying types of Iris flower based on parts' measurements. 
